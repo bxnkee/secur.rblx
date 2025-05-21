@@ -1,0 +1,16 @@
+{
+  "name": "secur-rblx-api",
+  "version": "1.0.0",
+  "description": "Behavior analysis API for Secur.RBLX captcha system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "captcha",
+    "security",
+    "behavior-analysis"
+  ],
+  "author": "",
+  "license": "MIT"
+}
